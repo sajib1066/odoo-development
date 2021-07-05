@@ -16,7 +16,11 @@ python odoo-bin scaffold <module_name> custom/
 3. Check the __manifest__.py file and add some configurations
 <code>
     'installable': True,
+</code>
+<code>
     'application': True,
+</code>
+<code>
     'auto_install': False
 </code>
 
