@@ -21,3 +21,6 @@ python odoo-bin scaffold <module_name> custom/
 ```
 
 4. Restart Server then update applist from odoo.
+
+5. Adding Custom Icon
+Create a static directory into the module directory then create a description into static. Then put the icon image into the description directory named icon.png
