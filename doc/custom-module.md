@@ -15,9 +15,9 @@ python odoo-bin scaffold <module_name> custom/
 
 3. Check the __manifest__.py file and add some configurations
 ```
-    'installable': True,
-    'application': True,
-    'auto_install': False
+'installable': True,
+'application': True,
+'auto_install': False
 ```
 
 4. Restart Server then update applist from odoo.
