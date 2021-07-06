@@ -1,4 +1,4 @@
-# odoo-development
+# Odoo Development
 Odoo Development Cheat Sheet
 
 # Table of contents
