@@ -5,7 +5,7 @@ Odoo Development Cheat Sheet
 
 * [Introduction](doc/introduction.md)
 * [How to Setup](doc/setup.md)
-    * [Setup Project](doc/setup-project.md)
+    * [Setup Odoo](doc/setup-odoo.md)
     * [Setup Database](doc/setup-database.md)
 * [Structure](doc/structure.md)
 * [Module](doc/module.md)
