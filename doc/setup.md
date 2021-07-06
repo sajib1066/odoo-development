@@ -47,3 +47,5 @@ python odoo-bin -c odoo.conf
 ```
 
 Go to [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
+
+Ref: [https://www.odoo.com/documentation/14.0/administration/install.html](https://www.odoo.com/documentation/14.0/administration/install.html)
