@@ -43,7 +43,7 @@ addons_path = <addons_directory_path>,
 
 7. Run Server
 ```
-python odoo-bin -c odoo.conf 
+python odoo-bin -c odoo.conf
 ```
 
 Go to [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
